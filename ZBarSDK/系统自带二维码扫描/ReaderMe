@@ -1,0 +1,3 @@
+
+IOS7.0之后，可以使用系统自带的二维码不需要导入任何库，且支持ARC机制。
+只需导入头文件#import <AVFoundation/AVFoundation.h>即可。
